@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.univibe.cc)",
+      "Bash(codex --help:*)",
+      "Bash(npm bin:*)",
+      "Bash(grep:*)",
+      "Bash(node:*)",
+      "Bash(npm:*)",
+      "Bash(export OPENAI_API_KEY='sk-aQXWav4R0llhJEnWALls2abTY3Drxo4i')",
+      "Bash(python3 -m openai:*)",
+      "Bash(export:*)",
+      "Bash(sudo chown:*)",
+      "Bash(/Users/yahao/codex-cli/bin/codex.js --help)",
+      "Bash(echo:*)",
+      "Bash(source ~/.zshrc)",
+      "Bash(pip3 install:*)",
+      "Bash(chmod:*)",
+      "Bash(read_pptx:*)",
+      "Bash(xcode-select --install)",
+      "Bash(git add:*)"
+    ]
+  }
+}
