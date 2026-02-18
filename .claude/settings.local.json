@@ -18,7 +18,8 @@
       "Bash(chmod:*)",
       "Bash(read_pptx:*)",
       "Bash(xcode-select --install)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(brew install:*)"
     ]
   }
 }
